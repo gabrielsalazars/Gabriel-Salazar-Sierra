@@ -141,7 +141,7 @@ header {
 
 .button-58:hover {
     background-color: #f8f8f8;
-    color: rgba(131, 30, 194, 0.909);
+    color: rgba(1, 0, 2, 0.909);
     ;
 }
 
@@ -177,8 +177,10 @@ header {
 }
 
 .project-card:hover {
-    scale: 1.1;
+    background-color: rgba(255, 157, 0, 0.909);
+    scale: 1.01;
     cursor: pointer;
+    color: white;
 }
 
 .project-card .deco p {
