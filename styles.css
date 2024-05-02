@@ -265,12 +265,22 @@ a{
 }
 
 .site-footer h6 {
+    width: 500px;
     color: #fff;
     font-size: 16px;
     text-transform: uppercase;
     margin-top: 5px;
     letter-spacing: 2px
 }
+
+.site-footer p{
+    width: 550px;
+    color: #737373;
+    font-size: 14px;
+
+
+}
+
 
 .site-footer a {
     color: #737373;
