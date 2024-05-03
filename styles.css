@@ -177,7 +177,7 @@ header {
 }
 
 .project-card:hover {
-    background-color: rgba(255, 157, 0, 0.909);
+    background-color: rgba(255, 157, 0, 0.785);
     scale: 1.01;
     cursor: pointer;
     color: white;
